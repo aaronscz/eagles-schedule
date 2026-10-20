@@ -13,7 +13,8 @@
     {"sport": "FB", "date": "2026-10-09", "where": "away", "opp": "Mahnomen/Waubun",            "us": 14, "them": 19},
     {"sport": "FB", "date": "2026-10-16", "where": "home", "opp": "Cass Lake-Bena",            "us": 64, "them": 0},
     {"sport": "FB", "date": "2026-10-20", "where": "away", "opp": "Red Lake County",    "time": "7:00 PM"},
-
+    {"sport": "FB", "date": "2026-10-27", "where": "home", "opp": "Section 8A Qtrs",    "time": "6:00 PM"},
+    
     {"sport": "BBB", "date": "2026-12-01", "where": "home", "opp": "Kittson County Central", "time": "7:30 PM"},
     {"sport": "GBB", "date": "2026-12-01", "where": "away", "opp": "Kittson County Central", "time": "6:00 PM"}
   ]
