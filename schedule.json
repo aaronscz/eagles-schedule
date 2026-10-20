@@ -1,0 +1,20 @@
+{
+  "_note": "SAMPLE DATA - the opponents are real Section 8A schools but every score and date here is made up. Replace the games with the real schedule.",
+  "school": "Sacred Heart",
+  "mascot": "Eagles",
+  "games": [
+    {"sport": "VB", "date": "2026-10-01", "where": "away", "opp": "Red Lake Falls",         "us": 3, "them": 0},
+    {"sport": "VB", "date": "2026-10-06", "where": "away", "opp": "Warren-Alvarado-Oslo",  "us": 3, "them": 0},
+    {"sport": "VB", "date": "2026-10-13", "where": "home", "opp": "East Grand Forks",   "us": 2, "them": 3},
+    {"sport": "VB", "date": "2026-10-19", "where": "away", "opp": "Northern Freeze",          "us": 3, "them": 0},
+    {"sport": "VB", "date": "2026-10-28", "where": "home", "opp": "Section 8A Round 2", "time": "7:00 PM"},
+
+    {"sport": "FB", "date": "2026-10-02", "where": "home", "opp": "Red Lake", "us": 54, "them": 24},
+    {"sport": "FB", "date": "2026-10-09", "where": "away", "opp": "Mahnomen/Waubun",            "us": 14, "them": 19},
+    {"sport": "FB", "date": "2026-10-16", "where": "home", "opp": "Cass Lake-Bena",            "us": 64, "them": 0},
+    {"sport": "FB", "date": "2026-10-20", "where": "away", "opp": "Red Lake County",    "time": "7:00 PM"},
+
+    {"sport": "BBB", "date": "2026-12-01", "where": "home", "opp": "Kittson County Central", "time": "7:30 PM"},
+    {"sport": "GBB", "date": "2026-12-01", "where": "away", "opp": "Kittson County Central", "time": "6:00 PM"}
+  ]
+}
